@@ -37,6 +37,11 @@
     "published_at": {
       "type": "date",
       "required": true
+    },
+    "tag": {
+      "type": "component",
+      "repeatable": true,
+      "component": "description.tag"
     }
   }
 }
