@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_contact_socials",
+  "info": {
+    "name": "social",
+    "icon": "angle-double-right"
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string",
+      "required": true
+    },
+    "url": {
+      "type": "string",
+      "required": true
+    }
+  }
+}
