@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_description_seos",
+  "info": {
+    "name": "seo",
+    "icon": "align-justify"
+  },
+  "options": {},
+  "attributes": {
+    "meta_title": {
+      "type": "string",
+      "required": true,
+      "unique": true
+    },
+    "meta_description": {
+      "type": "text",
+      "required": true
+    }
+  }
+}

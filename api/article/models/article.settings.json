@@ -42,6 +42,16 @@
       "type": "component",
       "repeatable": true,
       "component": "description.tag"
+    },
+    "draft": {
+      "type": "boolean",
+      "default": true,
+      "required": true
+    },
+    "seo": {
+      "type": "component",
+      "repeatable": false,
+      "component": "description.seo"
     }
   }
 }
