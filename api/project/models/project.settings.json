@@ -48,6 +48,10 @@
     "category": {
       "model": "category",
       "via": "projects"
+    },
+    "summary": {
+      "type": "text",
+      "required": true
     }
   }
 }
