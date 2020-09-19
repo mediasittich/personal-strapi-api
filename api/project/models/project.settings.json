@@ -52,6 +52,11 @@
     "summary": {
       "type": "text",
       "required": true
+    },
+    "slug": {
+      "type": "uid",
+      "targetField": "title",
+      "required": true
     }
   }
 }

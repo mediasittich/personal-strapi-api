@@ -1,0 +1,16 @@
+{
+  "kind": "singleType",
+  "collectionName": "imprints",
+  "info": {
+    "name": "Imprint"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true
+  },
+  "attributes": {
+    "content": {
+      "type": "richtext"
+    }
+  }
+}
